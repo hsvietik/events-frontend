@@ -1,0 +1,16 @@
+.event-wrapp {
+  margin-bottom: 20px;
+}
+.btn-wrapp {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+.btn {
+  background-color: #1e96fc;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: #fcf300;
+}

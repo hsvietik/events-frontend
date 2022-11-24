@@ -1,0 +1,28 @@
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  display: block;
+  width: 100px;
+  border-radius: 50%;
+}
+.btn {
+  display: block;
+  margin-right: 10px;
+}
+.login-btn {
+  display: block;
+  text-decoration: none;
+  color: black;
+  margin-right: 10px;
+}
+.login-btn:hover,
+.login-btn:focus {
+  color: black;
+}
+.nav-text {
+  font-size: 18px;
+  font-weight: 600;
+}
